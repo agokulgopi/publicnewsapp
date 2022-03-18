@@ -13,6 +13,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DailyNews">
         <activity
+            android:name=".NavigationDrawerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/Theme.DailyNews.NoActionBar" />
+        <activity
             android:name=".SignUpActivity"
             android:exported="false" />
         <activity

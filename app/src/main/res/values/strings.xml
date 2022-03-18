@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Daily News</string>
+
+    <string name="login_heading">Sign in</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="forget_pass">Forget password?</string>
+    <string name="sign_up_here">"Don't have account? <a>Sign Up"</a></string>
+    <string name="other_sign_in">or sign in with</string>
+
+    <string name="sign_up_heading">Sign Up</string>
+    <string name="sign_up_email">Email</string>
+    <string name="sign_up_password_confirm">Re-type Password</string>
+    <string name="sign_up_btn">Sign up</string>
 </resources>
